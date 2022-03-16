@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{72461E43-7490-44C0-97A6-CE088DC294F9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WEB_API_Pizzeria/Models/Contenido.cs">
+    <Files>
+      <File FileName="WEB_API_Pizzeria/Models/Masa.cs" Line="17" Column="26" />
+      <File FileName="WEB_API_Pizzeria/Models/Tamanio.cs" />
+      <File FileName="WEB_API_Pizzeria/Models/Especialidad.cs" />
+      <File FileName="WEB_API_Pizzeria/Data/ComunContext.cs" />
+      <File FileName="WEB_API_Pizzeria/Models/Contenido.cs" Line="32" Column="43" />
+      <File FileName="WEB_API_Pizzeria/Repositories/RepositoryContenido.cs" />
+      <File FileName="WEB_API_Pizzeria/Repositories/RepositoryEspecialidades.cs" />
+      <File FileName="WEB_API_Pizzeria/Repositories/RepositoryMasas.cs" />
+      <File FileName="WEB_API_Pizzeria/Repositories/RepositoryTamanios.cs" />
+      <File FileName="WEB_API_Pizzeria/Controllers/ContenidosController.cs" />
+      <File FileName="WEB_API_Pizzeria/appsettings.json" />
+      <File FileName="WEB_API_Pizzeria/Startup.cs" />
+      <File FileName="WEB_API_Pizzeria/Controllers/MasasController.cs" />
+      <File FileName="WEB_API_Pizzeria/Controllers/TamaniosController.cs" />
+      <File FileName="WEB_API_Pizzeria/Controllers/EspecialidadesController.cs" />
+      <File FileName="WEB_API_Pizzeria/Controllers/WeatherForecastController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WEB_API_Pizzeria" expanded="True">
+            <Node name="WEB_API_Pizzeria" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Contenido.cs" selected="True" />
+              </Node>
+              <Node name="Repositories" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WEB__API__Pizzeria PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
